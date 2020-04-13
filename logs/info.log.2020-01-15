@@ -1,0 +1,10 @@
+2020-01-15 11:42:51 logics.send_sms: 验证码: 395800
+2020-01-15 11:44:55 logics.send_sms: 验证码: 489782
+2020-01-15 11:44:55 logics.send_sms: 短信发送状态: 短信模板(templateid)已删除
+2020-01-15 11:59:55 logics.send_sms: 验证码: 108188
+2020-01-15 11:59:55 logics.send_sms: 短信发送状态: 短信模板(templateid)已删除
+2020-01-15 12:01:22 logics.send_sms: 验证码: 473951
+2020-01-15 12:01:23 logics.send_sms: 短信发送状态: 短信模板(templateid)已删除
+2020-01-15 14:52:29 logics.send_sms: 验证码: 183389
+2020-01-15 14:52:30 logics.send_sms: 短信发送状态: OK
+2020-01-15 14:54:24 apis.submit_vcode: User(1:程子凯) login

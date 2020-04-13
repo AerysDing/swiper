@@ -1,2 +1,2 @@
 # swiper
-swiper项目
+社交项目
